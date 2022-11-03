@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World");
-        int a = 8;
+        System.out.println("Привет, Мир!");
+        // лунная призма дай мне сил дойти до конца этой инструкции
     }
 }
